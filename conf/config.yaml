@@ -1,0 +1,13 @@
+data_dir: "data/tiff"
+patches_dir: "data/patches"
+prediction_dir: "prediction"
+task:
+  generate_patches: False
+  predict_loc: False
+  predict_cls: False
+  create_sub: False
+  create_overlay: False
+  reconstruct_overlay: False
+  reconstruct_mask: False
+
+rgb_shape: [17408, 17408, 3]
