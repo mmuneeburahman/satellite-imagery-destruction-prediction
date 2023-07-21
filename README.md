@@ -29,19 +29,19 @@ python main.py
 <table>
   <tr>
     <td>
-      <!-- <img src="relative_path_to_image_1" alt="Image Description 1" /> -->
         <img src="assets/localization_mask.png">
         <p align="center">Localization Mask Prediction</p>
     </td>
     <td>
-      <!-- <img src="relative_path_to_image_2" alt="Image Description 2" /> -->
-  <img src="assets/destruction_mask.png">
-      <p align="center">Destruction Mask Prediction</p>
+        <img src="assets/destruction_mask.png">
+        <p align="center">Destruction Mask Prediction</p>
     </td>
     <td>
-      <!-- <img src="relative_path_to_image_3" alt="Image Description 3" /> -->
-  <img src="assets/destruction_overlay.png">
-      <p align="center">Destruction overlay on pre tiff file</p>
+        <img src="assets/destruction_overlay.png">
+        <p align="center">Destruction overlay on pre tiff file</p>
     </td>
   </tr>
 </table>
+
+### About
+- You can donwload the sample data and results from this [link](https://drive.google.com/drive/folders/1twhxRwf5OVUvp9VVVwjC9bVmSmiSexUY)
