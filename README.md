@@ -13,15 +13,14 @@ These are the components working:
     2. Overlays
 
 ### Setup Initialization
-```bash
+```
 python -m venv .env
 source .env/bin/activate
 pip install -r requirements.txt
 ```
 Download weights given on xview2_first_place [release](https://github.com/DIUx-xView/xView2_first_place/releases)
-<li> Make a weights folder and place them there.
-<li> Place your data in `data/tiff/pre` and `data/tiff/post` containing pre and post diaster images. Both pre and post tiff should have same names.
-
+- Make a weights folder and place them there.
+- Place your data in  `data/tiff/pre` and `data/tiff/post` containing pre and post diaster images. Both pre and post tiff should have same names.
 ### Inference
 ```
 python main.py
